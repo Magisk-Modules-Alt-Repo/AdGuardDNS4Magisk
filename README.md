@@ -7,10 +7,6 @@
 
 Hello,
 
-
-### As John Graham-Cumming announced, Cloudflare now offers its own DNS service.
-### And surprise of the Boss if we believe his words: your history of browsing isn't saved on their servers !
-
 ### DNS ?? Gne ?? What's this ?
 
 To make it short: a DNS server listen and give you the corresponding IP address of your website request, and its domain name (forum.xda-developers.com for example).
