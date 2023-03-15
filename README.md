@@ -19,6 +19,7 @@ For the long version a little reading is necessary: https://en.wikipedia.org/wik
 
 ### The purpose of this module?
 Forward all mobile data via their servers.
+AdGuard help block annoying ads 
 
 
 #### Warning:
