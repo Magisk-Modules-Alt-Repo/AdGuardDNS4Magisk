@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://user-images.githubusercontent.com/91467886/225215561-7d02ace9-3add-400f-a154-edc18c18e5cc.png">
+<img src="https://i.postimg.cc/HkHcPMzy/adguard.png">
 <br />
 <img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a><br /><img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"alt="_time_stamp_" />
 
