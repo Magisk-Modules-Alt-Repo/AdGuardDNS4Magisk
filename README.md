@@ -14,7 +14,7 @@ To make it short: a DNS server listen and give you the corresponding IP address 
 For the long version a little reading is necessary: https://en.wikipedia.org/wiki/Domain_Name_System
 
 ### The purpose of this module?
-Forward all mobile data via their servers and AdGuard DNS help block annoying ads.
+Forward all mobile data via their servers and AdGuard DNS help block annoying ads and trackers.
 
 
 #### Warning:
